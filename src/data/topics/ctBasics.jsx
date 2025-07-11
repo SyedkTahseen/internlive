@@ -3,7 +3,7 @@ export const ctBasicsTopic = {
   title: "CT Scan Fundamentals",
   subtitle: "Understanding computed tomography principles and interpretation",
   // 🖼️ This image path needs to match an actual file in public/images/
-  image: "/images/general/ct.avif",
+  image: "./images/general/ct.avif",
   description: {
     overview:
       "Computed Tomography (CT) is a crucial imaging modality providing cross-sectional anatomy with excellent spatial resolution. This module covers CT physics, image acquisition parameters, contrast protocols, and systematic interpretation approaches for various body systems.",

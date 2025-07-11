@@ -3,7 +3,7 @@ export const chestXrayTopic = {
   title: "Chest X-Ray Interpretation",
   subtitle: "Master the fundamentals of chest radiography",
   // ✅ Fixed the image path to match the actual file
-  image: "/images/general/chest-xray-hero.jpg",
+  image: "./images/general/chest-xray-hero.jpg",
   description: {
     overview:
       "Chest X-rays are one of the most commonly performed radiological examinations in clinical practice. This comprehensive module covers systematic interpretation approaches, normal anatomical landmarks, and recognition of pathological findings. Understanding chest radiography is fundamental for emergency medicine physicians, internists, radiologists, and all healthcare providers involved in acute care.",
