@@ -26,7 +26,7 @@ const Navbar = ({ currentTopic, onTopicChange, availableTopics }) => {
           {/* Logo - Mobile Responsive */}
           <motion.div whileHover={{ scale: 1.05 }} className="flex items-center gap-2 sm:gap-3 cursor-pointer">
             <img
-              src="/images/logos/logo.png" // ← Change this path to your logo
+              src="/internlive/images/logos/logo.png" // ← Change this path to your logo
               alt="RadiologyHub Logo"
               className="w-8 h-8 sm:w-10 sm:h-10 rounded-xl object-cover"
               onError={(e) => {

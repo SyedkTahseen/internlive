@@ -58,7 +58,7 @@ const Footer = () => {
           >
             <div className="flex items-center gap-3 mb-4">
               <img
-                 src="/images/logos/logo.png"
+                 src="/internlive/images/logos/logo.png"
                 alt="RadiologyHub Logo"
                 className="w-10 h-10 sm:w-12 sm:h-12 rounded-xl object-cover"
                 onError={(e) => {

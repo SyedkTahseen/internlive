@@ -4,7 +4,7 @@ export const chestXrayFlashcards = [
   {
     id: 1,
     front: {
-      image: "/images/flashcards/Picture1.png",
+      image: "/internlive/images/flashcards/Picture1.png",
       title: "CXR-LUNG DISEASE basic principles of diagnosis.1",
     },
     back: {
@@ -21,7 +21,7 @@ export const chestXrayFlashcards = [
   {
     id: 2,
     front: {
-      image: "/images/flashcards/Picture2.png",
+      image: "/internlive/images/flashcards/Picture2.png",
       title: "CXR-LUNG DISEASE-basic principles of diagnosis.2",
     },
     back: {
@@ -39,7 +39,7 @@ clinicalPresentation: [
   {
     id: 3,
     front: {
-      image: "/images/flashcards/Picture3.png",
+      image: "/internlive/images/flashcards/Picture3.png",
       title: "CXR-LUNG DISEASE basic principles of diagnosis.3",
     },
     back: {
@@ -55,7 +55,7 @@ clinicalPresentation: [
   {
     id: 4,
     front: {
-      image: "/images/flashcards/Picture4.png",
+      image: "/internlive/images/flashcards/Picture4.png",
       title: "CXR-LUNG DISEASE basic principles of diagnosis.4",
     },
     back: {
@@ -71,7 +71,7 @@ clinicalPresentation: [
   {
     id: 5,
     front: {
-      image: "/images/flashcards/Picture5.png",
+      image: "/internlive/images/flashcards/Picture5.png",
       title: "CXR-LUNG DISEASE basic principles of diagnosis.-5",
     },
     back: {
@@ -85,7 +85,7 @@ clinicalPresentation: [
   {
     id: 6,
     front: {
-      image: "/images/flashcards/Picture6.png",
+      image: "/internlive/images/flashcards/Picture6.png",
       title: "CXR-LUNG DISEASE basic principles of diagnosis.-6",
     },
     back: {
@@ -100,7 +100,7 @@ clinicalPresentation: [
   {
     id: 7,
     front: {
-      image: "/images/flashcards/Picture7.png",
+      image: "/internlive/images/flashcards/Picture7.png",
       title: "CXR-LUNG DISEASE basic principles of diagnosis.-7",
     },
     back: {
@@ -115,7 +115,7 @@ clinicalPresentation: [
   {
     id: 8,
     front: {
-      image: "/images/flashcards/Picture8.png",
+      image: "/internlive/images/flashcards/Picture8.png",
       title: "CXR-LUNG DISEASE basic principles of diagnosis.-8",
     },
     back: {

@@ -71,7 +71,7 @@ const HeroBanner = () => {
             <motion.div variants={itemVariants} className="flex justify-center">
               <div className="relative w-80 h-80 md:w-96 md:h-96">
                 <img
-                  src="/images/doctor.png"
+                  src="/internlive/images/doctor.png"
                   alt="Radiology Illustration"
                   className="w-full h-full object-cover object-center"
                 />
